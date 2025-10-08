@@ -1,2 +1,2 @@
-# desafio2-modelagem-oficina
-Modelo EER aprimorado de oficina mecânica (Desafio 2 – MySQL Workbench)
+📄 **Diagrama EER em PDF:**  
+[➡️ Clique aqui para visualizar o modelo completo](docs/EER-Oficina-Mecanica.png)
